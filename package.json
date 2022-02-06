@@ -1,0 +1,16 @@
+{
+  "name": "dftemplate",
+  "version": "5.4.1a",
+  "description": "code template json type description",
+  "main": "dist/types.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "author": "SamMan_",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
